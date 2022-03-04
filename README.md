@@ -18,21 +18,21 @@
 ### Kas aja planeerimine vastas tegelikkusele?
 
 ### Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
-> * Angelika Usin:
+> * Angelika Usin: Projekt õpetas looma seoseid erinevate andmemudelite vahel ning Jira õppimine võimaldab projekti arengut jälgida
 > * Kätlin Maidle: Paneksin rohkem rõhku projektis analüüsimisele, et hiljem oleks lihtsam projektiga edasi liikuda.
 > * Ketrin Vanatoa: Ma prooviksin seletada rohkem töökäike lahti, et oleks lihtsam projekte valmis teha.
 > * Marcus Riisik:
 > * Sander-Aleks Mander: Kasutaksin Jirat et jagada osad tööd ära.
 > * Fredy Ait: Hakkan rohkem ette mõtlema ja planeerima terve projekti struktuuri enne kui ma kodeerima hakkan.
 ### Üks pehme oskus, mida õppisin ja endas arendasin?
-> * Angelika Usin:
+> * Angelika Usin: Kommunikatsiooni korraldus
 > * Kätlin Maidle: Arendasin suuresti analüüsivõimet, võtsin ennast kokku ja käisin ära ka koosolekul. Julgesin seekord rohkem küsida ja ei kartnud loll olla.
 > * Ketrin Vanatoa: Arendasin endas kuulamis oskust ja meeskonnatöö oskust.
 > * Marcus Riisik:
 > * Sander-Aleks Mander: Õppisin rohkem inimestega suhtlema.
 > * Fredy Ait: Arendasin veidi liideri oskust.
 ### Üks tehniline oskus, mida õppisin ja endas arendasin?
-> * Angelika Usin:
+> * Angelika Usin: Jira
 > * Kätlin Maidle: Täiesti uus asi minu jaosk oli Jira.
 > * Ketrin Vanatoa: Õppisin kasutama Jirat
 > * Marcus Riisik:
