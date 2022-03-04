@@ -20,16 +20,16 @@
 ### Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 > * Angelika Usin:
 > * Kätlin Maidle:
-> * Ketrin Vanatoa:Ma prooviksin seletada rohkem töökäike lahti, et oleks lihtsam projekte valmis teha.
+> * Ketrin Vanatoa: Ma prooviksin seletada rohkem töökäike lahti, et oleks lihtsam projekte valmis teha.
 > * Marcus Riisik:
-> * Sander-Aleks Mander:Kasutaksin Jirat et jagada osad tööd ära.
+> * Sander-Aleks Mander: Kasutaksin Jirat et jagada osad tööd ära.
 > * Fredy Ait: Hakkan rohkem ette mõtlema ja planeerima terve projekti struktuuri enne kui ma kodeerima hakkan.
 ### Üks pehme oskus, mida õppisin ja endas arendasin?
 > * Angelika Usin:
 > * Kätlin Maidle:
-> * Ketrin Vanatoa:Arendasin endas kuulamis oskust ja meeskonnatöö oskust.
+> * Ketrin Vanatoa: Arendasin endas kuulamis oskust ja meeskonnatöö oskust.
 > * Marcus Riisik:
-> * Sander-Aleks Mander:Õppisin rohkem inimestega suhtlema.
+> * Sander-Aleks Mander: Õppisin rohkem inimestega suhtlema.
 > * Fredy Ait: Arendasin veidi liideri oskust.
 ### Üks tehniline oskus, mida õppisin ja endas arendasin?
 > * Angelika Usin:
