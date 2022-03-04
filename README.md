@@ -38,5 +38,3 @@
 > * Marcus Riisik:
 > * Sander-Aleks Mander:
 
-![Rollid](https://user-images.githubusercontent.com/71066639/156727420-5d08bfba-968f-41b7-b618-db56a6d833ef.jpg)
-
