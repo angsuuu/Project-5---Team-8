@@ -18,7 +18,7 @@
 ### Kas aja planeerimine vastas tegelikkusele?
 
 ### Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
-Angelika Usin:
+> * Angelika Usin:
 > * Kätlin Maidle:
 > * Ketrin Vanatoa:
 > * Marcus Riisik:
