@@ -12,7 +12,7 @@
 > * Jira
 > * Figma
 > * Github
-> * Tahvel 😊
+> * Tahvel
 
 ## Küsimused:
 ### Kas aja planeerimine vastas tegelikkusele?
